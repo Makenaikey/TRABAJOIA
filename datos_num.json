@@ -1,0 +1,53 @@
+[
+    {
+        "Store": 1,
+        "IsHoliday": 0,
+        "Temperature": 42.31,
+        "Fuel_Price": 2.572,
+        "MarkDown1": 0,
+        "MarkDown2": 0,
+        "MarkDown3": 0,
+        "MarkDown4": 0,
+        "MarkDown5": 0,
+        "CPI": 211.096358,
+        "Unemployment": 8.106,
+        "Type": 3,
+        "Size": 151315,
+        "mes": 2,
+        "d\u00eda": 5
+    },
+    {
+        "Store": 1,
+        "IsHoliday": 1,
+        "Temperature": 38.51,
+        "Fuel_Price": 2.548,
+        "MarkDown1": 0,
+        "MarkDown2": 0,
+        "MarkDown3": 0,
+        "MarkDown4": 0,
+        "MarkDown5": 0,
+        "CPI": 211.24217,
+        "Unemployment": 8.106,
+        "Type": 3,
+        "Size": 151315,
+        "mes": 2,
+        "d\u00eda": 12
+    },
+    {
+        "Store": 1,
+        "IsHoliday": 0,
+        "Temperature": 39.93,
+        "Fuel_Price": 2.514,
+        "MarkDown1": 0,
+        "MarkDown2": 0,
+        "MarkDown3": 0,
+        "MarkDown4": 0,
+        "MarkDown5": 0,
+        "CPI": 211.289143,
+        "Unemployment": 8.106,
+        "Type": 3,
+        "Size": 151315,
+        "mes": 2,
+        "d\u00eda": 19
+    }
+]
